@@ -1,8 +1,8 @@
 #Olá! Eu sou Luiz Felippe Silva Fagundes
 
 - 🖥 Graduando em Ciência da Computação
-- 🔭 Hoje trabalho com Ciencia de Dados
-- 🌱 Estudando atualmente Python 
+- 🔭 Hoje trabalho com Desenvolvimento Android
+- 🌱 Estudando atualmente Kotlin
 - 😄 Pronouns: ele/dele
 
 <div>
