@@ -2,7 +2,7 @@
 
 - 🖥 Graduando em Ciência da Computação
 - 🔭 Hoje trabalho com Desenvolvimento Android
-- 🌱 Estudando atualmente Kotlin
+- 🌱 Estudando atualmente Kotlin e Java
 - 😄 Pronouns: ele/dele
 
 <div>
