@@ -1,9 +1,11 @@
-#Olá! Eu sou Luiz Felippe Silva Fagundes
+# Ólá! Eu sou Luiz Felippe Silva Fagundes
 
-- 🖥 Graduando em Ciência da Computação
-- 🔭 Hoje trabalho com Desenvolvimento Android
-- 🌱 Estudando atualmente Kotlin e Java
-- 😄 Pronouns: ele/dele
+- 🔅 Graduado em Ciência da Computação
+- 🔯 Desenvolvedor de Software com mais de 2 anos de experiência
+- 🔮 Atualmente trabalho como Analista de TI Júnior na Vitória Hospitalar
+- 🔍 Focado em desenvolvimento mobile com Flutter e Android nativo (Kotlin e Java)
+- 🔬 Experiente em Backend com PHP, integração com ERP Sankhya e análise de dados com Power BI
+- 🚀 Sempre explorando novas tecnologias e soluções inovadoras!
 
 <div>
   <a href="https://github.com/LuizFelippeSilvaFagundes">
@@ -11,24 +13,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelippeSilvaFagundes&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luiz-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Luiz-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Luiz-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Luiz-Csharp" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
+  <img align="center" alt="Luiz-MySQL" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
-  ##
+## 
  
 <div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "luizfelippefagundes06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/seu_instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/seu_discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:luizfelippefagundes06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-felippe-silva-fagundes-4611191a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
