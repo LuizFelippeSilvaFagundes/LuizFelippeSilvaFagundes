@@ -6,18 +6,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar a animação Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
-      - name: Commit & Push
+      - name: Commit e Push da animação
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git init
+          git remote add origin https://github.com/${{ github.repository }}.git
           git add -A
-          git commit -m "Generated snake animation" || exit 0
+          git commit -m "Gerado snake animation" || exit 0
           git push
