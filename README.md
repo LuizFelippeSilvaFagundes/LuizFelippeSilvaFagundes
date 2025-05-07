@@ -2,7 +2,6 @@
 
 - 🔅 Graduado em Ciência da Computação
 - 🔯 Desenvolvedor de Software com mais de 2 anos de experiência
-- 🔮 Atualmente trabalho como Analista de TI Júnior na Vitória Hospitalar
 - 🔍 Focado em desenvolvimento mobile com Flutter e Android nativo (Kotlin e Java)
 - 🔬 Experiente em Backend com PHP, integração com ERP Sankhya e análise de dados com Power BI
 - 🚀 Sempre explorando novas tecnologias e soluções inovadoras!
